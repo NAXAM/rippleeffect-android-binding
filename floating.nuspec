@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Naxam.RippleEffect.Droid</id>
+    <version>1.3</version>
+    <authors>NAXAM CO., LTD</authors>
+    <owners>NAXAM CO., LTD</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/NAXAM/RippleEffect-android-binding</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/25535951</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin Binding Library - Android RippleEffect</description>
+    <releaseNotes>RippleEffect 1.3</releaseNotes>
+    <copyright>Copyright (c) 2017 NAXAM</copyright>
+    <tags>RippleEffect Naxam Xamarin Binding Android Ripple</tags>
+  </metadata>
+  <files>
+        <file src="Naxam.RippleEffect.Droid/bin/Release/Naxam.RippleEffect.Droid.dll" target="lib/MonoAndroid10/Naxam.RippleEffect.Droid.dll" />
+    </files>
+</package>
